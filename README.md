@@ -9,7 +9,7 @@ A repository containing my work during my brief period at /r/ApexLegends, /r/Ape
 `r-apexlegends/img/` contains all of the image resources needed for the stylesheet.  
 
 ### /r/ApexOutlands
-`r-apexlegends/img` contains all of the image resources needed for the stylesheet. The stylesheet has no other differences other than different images.
+`r-apexoutlands/img` contains all of the image resources needed for the stylesheet. The stylesheet has no other differences other than different images.
 
 ### /r/ApexLFG
 /r/ApexLFG is currently on /r/ApexLegends CSS, images included, so there is nothing to add here.
