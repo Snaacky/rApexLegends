@@ -1,5 +1,5 @@
 # rApexLegends
-A repository containing my work during my brief period at /r/ApexLegends, /r/ApexOutlands, and /r/ApexLFG. The repository is sadly bare and minimalistic because a former disgruntled mod team I used to work with decided to reach out and use their "sway" to bully me off the project.
+A repository containing my work during my brief period at /r/ApexLegends, /r/ApexOutlands, and /r/ApexLFG. The repository is sadly bare and minimalistic because a former disgruntled mod team I used to work with decided to reach out to the head mods and use their "sway" to bully me off the project.
 
 ## Contents
 
