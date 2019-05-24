@@ -13,6 +13,3 @@ A repository containing my work during my brief period at /r/ApexLegends, /r/Ape
 
 ### /r/ApexLFG
 /r/ApexLFG is currently on /r/ApexLegends CSS, images included, so there is nothing to add here.
-
-## Updates
-Although eventually this repository will become out of date because I have no plans to update it, [you can always find the latest CSS and image resources here.](https://www.reddit.com/r/apexlegends/about/stylesheet/) 
